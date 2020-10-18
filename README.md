@@ -25,7 +25,7 @@ Estudando React-Native e Javascript
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="crlospessin"/> 
 </p> -->
-### Redes
+### Redes:
 
 <p align="left">
 <a href="https://linkedin.com/in/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlospessin" height="20" width="20" /></a>
