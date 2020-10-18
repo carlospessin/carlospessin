@@ -18,10 +18,12 @@ Estudando React-Native e Javascript
 <br />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"  width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator"  width="20" height="20">
-</p>s
+</p>
+
 ### Projetos:
 - [Happy](https://github.com/carlospessin/happy)
 
+<br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="crlospessin"/> 
 </p>
