@@ -6,10 +6,12 @@ Estudando React-Native e Javascript
 
 ### Linguagens e Ferramentas:
 
-- Javascript
-- SQlite3, Firebase
-- VS Code
-- React-Native
+- <img align="left" alt="javascript" width="30px" src="images/javascript.png" />
+- <img align="left" alt="react-native" width="30px" src="images/react-native.png" />
+- <img align="left" alt="php" width="30px" src="images/php.png" />
+- <img align="left" alt="html5" width="30px" src="images/html5.png" />
+- <img align="left" alt="css3" width="30px" src="images/css3.png" />
+- <img align="left" alt="angular" width="30px" src="images/angular.png" />
 <br />
 
 ### Projetos:
@@ -17,7 +19,7 @@ Estudando React-Native e Javascript
 
 ### Redes:
 
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/carlospessin/)
+[<img align="left" alt="linkedin" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/carlospessin/)
 
 
 <!--
