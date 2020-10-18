@@ -5,7 +5,7 @@ Estudando React-Native e Javascript
 <br />
 
 ### Linguagens e Ferramentas:
-
+<p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20">
@@ -18,6 +18,7 @@ Estudando React-Native e Javascript
 <br />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"  width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator"  width="20" height="20">
+</p>s
 ### Projetos:
 - [Happy](https://github.com/carlospessin/happy)
 
