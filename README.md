@@ -24,11 +24,13 @@ Estudando React-Native e Javascript
 - [Happy](https://github.com/carlospessin/happy)
 
 <br />
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="crlospessin"/> 
-</p>
+</p> -->
 
-<p align="center">
+### Redes
+
+<p align="left">
 <a href="https://linkedin.com/in/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlospessin" height="20" width="20" /></a>
 <a href="https://fb.com/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="carlospessin" height="20" width="20" /></a>
 <a href="https://instagram.com/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="carlospessin" height="20" width="20" /></a>
