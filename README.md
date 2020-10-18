@@ -12,7 +12,7 @@ Estudando React-Native e Javascript
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="angular"  width="20" height="20">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio"  width="20" height="20">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg.svg" alt="visual studio"  width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular"  width="20" height="20">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original-wordmark.svg" alt="angular"  width="20" height="20">
 <br />
