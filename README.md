@@ -6,21 +6,30 @@ Estudando React-Native e Javascript
 
 ### Linguagens e Ferramentas:
 
-<img align="left" alt="javascript" width="30px" src="images/javascript.png" />
-<img align="left" alt="react-native" width="30px" src="images/react-native.png" />
-<img align="left" alt="php" width="30px" src="images/php.png" />
-<img align="left" alt="html5" width="30px" src="images/html5.png" />
-<img align="left" alt="css3" width="30px" src="images/css3.png" />
-<img align="left" alt="angular" width="30px" src="images/angular.png" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="angular"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="visual studio"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angular"  width="20" height="20"/>
 <br />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"  width="20" height="20"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator"  width="20" height="20"/>
 
 ### Projetos:
 - [Happy](https://github.com/carlospessin/happy)
 
-### Redes:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="crlospessin"/> 
+</p>
 
-[<img align="left" alt="linkedin" width="22px" src="images/linkedin.png" />](https://www.linkedin.com/in/carlospessin/)
-
+<p align="center">
+<a href="https://linkedin.com/in/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlospessin" height="20" width="20" /></a>
+<a href="https://fb.com/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="carlospessin" height="20" width="20" /></a>
+<a href="https://instagram.com/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="carlospessin" height="20" width="20" /></a>
+</p>
 
 <!--
 **carlospessin/carlospessin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
