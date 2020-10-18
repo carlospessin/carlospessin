@@ -6,12 +6,12 @@ Estudando React-Native e Javascript
 
 ### Linguagens e Ferramentas:
 
-- <img align="left" alt="javascript" width="30px" src="images/javascript.png" />
-- <img align="left" alt="react-native" width="30px" src="images/react-native.png" />
-- <img align="left" alt="php" width="30px" src="images/php.png" />
-- <img align="left" alt="html5" width="30px" src="images/html5.png" />
-- <img align="left" alt="css3" width="30px" src="images/css3.png" />
-- <img align="left" alt="angular" width="30px" src="images/angular.png" />
+<img align="left" alt="javascript" width="30px" src="images/javascript.png" />
+<img align="left" alt="react-native" width="30px" src="images/react-native.png" />
+<img align="left" alt="php" width="30px" src="images/php.png" />
+<img align="left" alt="html5" width="30px" src="images/html5.png" />
+<img align="left" alt="css3" width="30px" src="images/css3.png" />
+<img align="left" alt="angular" width="30px" src="images/angular.png" />
 <br />
 
 ### Projetos:
