@@ -1,7 +1,7 @@
 ### E aí, Carlos aqui 👋
 
 Graduando em Sistemas para Internet <br />
-Estudando React-Native e Javascript
+Estudando React, React-Native e Javascript
 <br />
 
 ### Linguagens e Ferramentas:
@@ -23,8 +23,14 @@ Estudando React-Native e Javascript
 ### Projetos:
 - [Happy](https://github.com/carlospessin/happy)<br />
 <!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="crlospessin"/> 
+<img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="carlospessin"/> 
 </p> -->
+
+- [Todo App](https://github.com/carlospessin/todo-app)<br />
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="carlospessin"/> 
+</p> -->
+
 ### Redes:
 
 <p align="left">
