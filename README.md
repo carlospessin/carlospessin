@@ -21,11 +21,6 @@ Estudando React, React-Native e Javascript
 </p>
 
 ### Projetos:
-- [Happy](https://github.com/carlospessin/happy)<br />
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="carlospessin"/> 
-</p> -->
-
 - [Todo App](https://github.com/carlospessin/todo-app)<br />
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="carlospessin"/> 
