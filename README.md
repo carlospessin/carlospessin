@@ -20,12 +20,6 @@ Estudando React, React-Native e Javascript
 <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator"  width="20" height="20">
 </p>
 
-### Projetos:
-- [Todo App](https://github.com/carlospessin/todo-app)<br />
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true" alt="carlospessin"/> 
-</p> -->
-
 ### Redes:
 
 <p align="left">
