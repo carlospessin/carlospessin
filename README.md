@@ -1,8 +1,6 @@
 ### E aí, Carlos aqui 👋
 
 Graduando em Sistemas para Internet <br />
-Estudando PHP e Javascript
-<br />
 
 ### Linguagens e Ferramentas:
 <p align="left">
