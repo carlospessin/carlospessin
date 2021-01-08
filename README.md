@@ -16,8 +16,8 @@ Estudando React, React-Native e Javascript
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular"  width="20" height="20">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="angular"  width="20" height="20">
 <br />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop"  width="20" height="20">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/illustrator/illustrator-plain.svg" alt="illustrator"  width="20" height="20">
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop"  width="20" height="20">
+<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" alt="illustrator"  width="20" height="20">
 </p>
 
 ### Projetos:
