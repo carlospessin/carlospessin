@@ -1,7 +1,7 @@
 ### E aí, Carlos aqui 👋
 
 Graduando em Sistemas para Internet <br />
-Estudando React, React-Native e Javascript
+Estudando PHP e Javascript
 <br />
 
 ### Linguagens e Ferramentas:
