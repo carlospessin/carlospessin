@@ -21,8 +21,8 @@ Graduando em Sistemas para Internet <br />
 ### Redes:
 
 <p align="left">
-<a href="https://linkedin.com/in/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlospessin" height="20" width="20" /></a>
-<a href="https://instagram.com/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="carlospessin" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin-original.svg" alt="carlospessin" height="20" width="20" /></a>
+<a href="https://instagram.com/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram-original.svg" alt="carlospessin" height="20" width="20" /></a>
 </p>
 
 <!--
