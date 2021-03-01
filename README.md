@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlospessin&show_icons=true&locale=en&layout=compact" alt="carlospessin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true&theme=gruvbox&locale=en" alt="carlospessin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlospessin&show_icons=true&theme=vue&locale=en" alt="carlospessin" /></p>
