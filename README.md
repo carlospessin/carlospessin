@@ -5,13 +5,8 @@
 
 - ⚡ Curiosidade: **Sou Asperger**
 
-<h3 align="left">Nas redes:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="carlospessin" height="30" width="40" /></a>
-<a href="https://instagram.com/carlospessin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="carlospessin" height="30" width="40" /></a>
-</p>
+##
 
-<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img
@@ -99,6 +94,12 @@
   </a>
 </p>
 
+##
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlospessin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/carlospessin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlospessin&show_icons=true&locale=en&layout=compact" alt="carlospessin" /></p>
