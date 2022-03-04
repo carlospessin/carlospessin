@@ -22,7 +22,11 @@
   </a>
   
   <a href="https://angular.io/" target="_blank">
-   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
+   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-plain.svg">
+  </a>
+  
+    <a href="https://flutter.dev/" target="_blank">
+   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-plain.svg">
   </a>
 
 </p>
