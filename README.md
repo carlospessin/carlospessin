@@ -1,7 +1,7 @@
 <h2 align="left">Olá, Sou Carlos</h2>
 <h3 align="left">Apaixonado por automatizar processos</h3>
 
-- 🌱 Atualmente estudando **Laravel e Flutter**
+- 🌱 Atualmente estudando **ReactJS**
 
 - ⚡ Curiosidade: **Sou Asperger**
 
