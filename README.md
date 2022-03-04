@@ -20,6 +20,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
    <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </a>
+  
+  <a href="https://angular.io/" target="_blank">
+   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg">
+  </a>
 
 </p>
 
