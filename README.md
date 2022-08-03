@@ -8,15 +8,17 @@
 
 ## Projetos 
 
-#1 - [Clone da interface do Nubank em Angular](https://github.com/carlospessin/nubank-clone-angular)  
-#2 - [Clone da interface do Nubank em Flutter](https://github.com/carlospessin/nubank-clone-flutter)  
-#3 - [Recriando a página inicial do Instagram](https://github.com/carlospessin/instagram-loginpage-clone)  
-#4 - [Clean Project de login social com Laravel](https://github.com/carlospessin/laravel-social-login)  
-#5 - [Projeto web para localização e cadastro de orfanatos](https://github.com/carlospessin/happy)  
-#6 - [Aplicação de controle financeiro](https://github.com/carlospessin/dev-finance)  
-#7 - [Simulador de Rentabilidad CDI](https://github.com/carlospessin/cdi)  
-#8 - [TODO minimalista](https://github.com/carlospessin/todo-list)  
-#9 - [WebSite experimental](https://github.com/carlospessin/fds-burger)  
+
+#01 - [Clone da interface do Nubank em Flutter](https://github.com/carlospessin/nubank-clone-flutter)  
+#02 - [App para acompanhamento de pedidos e valores em Flutter](https://github.com/carlospessin/zallpy-digital-flutter)  
+#03 - [Clone da interface do Nubank em Angular](https://github.com/carlospessin/nubank-clone-angular)  
+#04 - [Recriando a página inicial do Instagram](https://github.com/carlospessin/instagram-loginpage-clone)  
+#05 - [Clean Project de login social com Laravel](https://github.com/carlospessin/laravel-social-login)  
+#06 - [Projeto web para localização e cadastro de orfanatos](https://github.com/carlospessin/happy)  
+#07 - [Aplicação de controle financeiro](https://github.com/carlospessin/dev-finance)  
+#08 - [Simulador de Rentabilidad CDI](https://github.com/carlospessin/cdi)  
+#09 - [TODO minimalista](https://github.com/carlospessin/todo-list)  
+#10 - [WebSite experimental](https://github.com/carlospessin/fds-burger)  
 
 :books: [Todos os projetos](https://github.com/carlospessin?tab=repositories)
 
