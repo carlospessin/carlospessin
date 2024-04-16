@@ -26,27 +26,9 @@
 ##
 
 <p align="left">
-  
-  <a href="https://www.php.net" target="_blank">
-    <img align="center" alt="Js" height="40" width="40" src="https://mblogthumb-phinf.pstatic.net/MjAxNzA1MDhfMTYw/MDAxNDk0MjQwMTM1MjE3.FLF8jkuAmuEHRUiGOJm71rAZghs6vwQQVkDwMEhGoegg.MYEcZ2ky13dSuDOwnqHKgl7PRs0IFCzLEmvVToSzwWog.PNG.crehacktive3/php.png?type=w800">
-  </a>
-
-  <a href="https://laravel.com/" target="_blank">
-    <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </a>
-  
-  <a href="https://angular.io/" target="_blank">
-   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-plain.svg">
-  </a>
-  
-  <a href="https://flutter.dev/" target="_blank">
-   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flutter/flutter-plain.svg">
-  </a>
-
+  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"> 
+  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
 </p>
 
 ##
